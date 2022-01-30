@@ -1,0 +1,8 @@
+C:\Users\jjohn\Documents\VSC Projects\Random num gen and exporter\Random num gen and exporter\bin\Release\Random num gen and exporter.exe.config
+C:\Users\jjohn\Documents\VSC Projects\Random num gen and exporter\Random num gen and exporter\bin\Release\Random num gen and exporter.exe
+C:\Users\jjohn\Documents\VSC Projects\Random num gen and exporter\Random num gen and exporter\bin\Release\Random num gen and exporter.pdb
+C:\Users\jjohn\Documents\VSC Projects\Random num gen and exporter\Random num gen and exporter\obj\Release\Random num gen and exporter.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjohn\Documents\VSC Projects\Random num gen and exporter\Random num gen and exporter\obj\Release\Random num gen and exporter.csproj.CoreCompileInputs.cache
+C:\Users\jjohn\Documents\VSC Projects\Random num gen and exporter\Random num gen and exporter\obj\Release\Random num gen and exporter.exe
+C:\Users\jjohn\Documents\VSC Projects\Random num gen and exporter\Random num gen and exporter\obj\Release\Random num gen and exporter.pdb
+C:\Users\jjohn\Documents\VSC Projects\Random num gen and exporter\Random num gen and exporter\obj\Release\Random num gen and exporter.csproj.AssemblyReference.cache

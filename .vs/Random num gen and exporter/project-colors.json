@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6bfe9e99-1c84-4366-a3fb-8c1cbb9a01a9": {
+      "ProjectGuid": "6bfe9e99-1c84-4366-a3fb-8c1cbb9a01a9",
+      "DisplayName": "Random num gen and exporter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
