@@ -48,7 +48,7 @@ namespace Random_num_gen_and_exporter
                     Console.WriteLine("How many random numbers do you want generated?");
                     int genAmount = Convert.ToInt32(Console.ReadLine());
                     int fileAmount = genAmount;
-                    while (genAmount != 0)
+                    while (genAmount > 0)
                     {
                         if (num1 > num2)
                         {
@@ -98,7 +98,7 @@ namespace Random_num_gen_and_exporter
                     Console.WriteLine("Please enter how many numbers you want generated:");
                     int decAmount = Convert.ToInt32(Console.ReadLine());
                     int decFileAmount = decAmount;
-                    while(decAmount != 0)
+                    while(decAmount > 0)
                     {
                         decOutput = rand.Next(0, Convert.ToInt32(randDecPlaces));
                         doubleOutput = decOutput / randDecPlaces;
