@@ -48,14 +48,14 @@ namespace Random_num_gen_and_exporter
                     Console.WriteLine("How many random numbers do you want generated?");
                     int genAmount = Convert.ToInt32(Console.ReadLine());
                     int fileAmount = genAmount;
+                    if (num1 > num2)
+                    {
+                        int num3 = num2;
+                        num2 = num1;
+                        num1 = num3;
+                    }
                     while (genAmount > 0)
                     {
-                        if (num1 > num2)
-                        {
-                            int num3 = num2;
-                            num2 = num1;
-                            num1 = num3;
-                        }
                         output = rand.Next(num1, num2);
                         Console.WriteLine(output);
                         genAmount--;
